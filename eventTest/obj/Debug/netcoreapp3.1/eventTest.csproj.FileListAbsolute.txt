@@ -1,0 +1,11 @@
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.exe
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.deps.json
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.runtimeconfig.json
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.runtimeconfig.dev.json
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.dll
+C:\01.Project\DotNet\eventTest\eventTest\bin\Debug\netcoreapp3.1\eventTest.pdb
+C:\01.Project\DotNet\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.csprojAssemblyReference.cache
+C:\01.Project\DotNet\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.AssemblyInfoInputs.cache
+C:\01.Project\DotNet\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.AssemblyInfo.cs
+C:\01.Project\DotNet\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.dll
+C:\01.Project\DotNet\eventTest\eventTest\obj\Debug\netcoreapp3.1\eventTest.pdb

@@ -1,0 +1,11 @@
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.exe
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.deps.json
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.runtimeconfig.json
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.runtimeconfig.dev.json
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.dll
+C:\01.Project\DotNet\eventTest\span\bin\Debug\netcoreapp3.1\span.pdb
+C:\01.Project\DotNet\eventTest\span\obj\Debug\netcoreapp3.1\span.csprojAssemblyReference.cache
+C:\01.Project\DotNet\eventTest\span\obj\Debug\netcoreapp3.1\span.AssemblyInfoInputs.cache
+C:\01.Project\DotNet\eventTest\span\obj\Debug\netcoreapp3.1\span.AssemblyInfo.cs
+C:\01.Project\DotNet\eventTest\span\obj\Debug\netcoreapp3.1\span.dll
+C:\01.Project\DotNet\eventTest\span\obj\Debug\netcoreapp3.1\span.pdb

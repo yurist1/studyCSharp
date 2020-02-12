@@ -1,0 +1,10 @@
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.exe
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.deps.json
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.runtimeconfig.json
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.runtimeconfig.dev.json
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.dll
+C:\01.Project\DotNet\eventTest\delegateTest\bin\Debug\netcoreapp3.1\delegateTest.pdb
+C:\01.Project\DotNet\eventTest\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.AssemblyInfoInputs.cache
+C:\01.Project\DotNet\eventTest\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.AssemblyInfo.cs
+C:\01.Project\DotNet\eventTest\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.dll
+C:\01.Project\DotNet\eventTest\delegateTest\obj\Debug\netcoreapp3.1\delegateTest.pdb

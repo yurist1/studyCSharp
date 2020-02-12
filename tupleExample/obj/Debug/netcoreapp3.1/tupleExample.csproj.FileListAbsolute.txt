@@ -1,0 +1,11 @@
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.exe
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.deps.json
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.runtimeconfig.json
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.runtimeconfig.dev.json
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.dll
+C:\01.Project\DotNet\eventTest\tupleExample\bin\Debug\netcoreapp3.1\tupleExample.pdb
+C:\01.Project\DotNet\eventTest\tupleExample\obj\Debug\netcoreapp3.1\tupleExample.csprojAssemblyReference.cache
+C:\01.Project\DotNet\eventTest\tupleExample\obj\Debug\netcoreapp3.1\tupleExample.AssemblyInfoInputs.cache
+C:\01.Project\DotNet\eventTest\tupleExample\obj\Debug\netcoreapp3.1\tupleExample.AssemblyInfo.cs
+C:\01.Project\DotNet\eventTest\tupleExample\obj\Debug\netcoreapp3.1\tupleExample.dll
+C:\01.Project\DotNet\eventTest\tupleExample\obj\Debug\netcoreapp3.1\tupleExample.pdb
